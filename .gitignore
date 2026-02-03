@@ -1,0 +1,7 @@
+/test_table/*
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore all CSV files
+*.csv
